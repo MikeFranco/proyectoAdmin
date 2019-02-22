@@ -1,0 +1,31 @@
+.texto1{
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  position: absolute;
+  right: 15%;
+  width: 500px;
+  background-color: thistle ;
+  padding: 10px;
+}
+
+.texto2{
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  position:absolute;
+  left: 8%;
+  margin-top: 0;
+  position: left;
+  padding: 15px;
+  width: 500px;
+  border: 3px solid blue;
+  padding: 10px;
+}
+
+img{
+  position: absolute;
+  left: 700px;
+  top: 600px;
+}
+
+h1{
+  padding: 20px;
+  text-align: center;
+}

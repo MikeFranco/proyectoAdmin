@@ -1,0 +1,33 @@
+h1{
+  text-align: center;
+  font-size: 45px;
+}
+
+h2{
+  padding: 15px;
+}
+
+.texto1{
+  position: absolute;
+  right: 10%;
+  width: 35%;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: 20px;
+  padding: 15px;
+  background:rgba(5, 231, 201, 0.993);
+}
+
+.texto2{
+  position: absolute;
+  left: 10%;
+  width: 35%;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: 20px;
+  padding: 15px;
+  border: 3px solid blue;
+}
+
+.imagen{
+  padding-top: 400px;
+  padding-left: 30%
+}

@@ -1,0 +1,50 @@
+h2{
+  padding: 15px;
+}
+
+.div1{
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  position: absolute;
+  top: 50px;
+  right: 10%;
+  width: 500px;
+  text-align: justify;
+  border: 3px solid teal;
+  padding: 20px;
+}
+
+.div2{
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  position: absolute;
+  top: 40%;
+  left: 5%;
+  width: 500px;
+  text-align: justify;
+  border: 3px solid gold;
+  background-color: antiquewhite;
+  padding: 20px;
+}
+
+.div3{
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  position: absolute;
+  top: 500;
+  right: 10%;
+  width: 500px;
+  text-align: justify;
+  border: 3px solid chartreuse;
+  padding: 20px;
+}
+
+.imagen{
+  position: absolute;
+  top: 40%;
+  left: 42%;
+
+}
+
+h1{
+  position: absolute;
+  left: 200px;
+  font-size: 45px;
+}
